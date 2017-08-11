@@ -41,6 +41,7 @@ function _remove_header_links(array &$attachments) {
     'drupal:content-translation-add',
     'drupal:content-translation-edit',
     'drupal:content-translation-delete',
+    'shortlink'
   ];
   // Unset loop.
   foreach ($attachments['#attached']['html_head_link'] as $key => $value) {
