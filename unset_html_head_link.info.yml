@@ -7,4 +7,4 @@ core: 8.x
 type: module
 package: SEO
 # Module version.
-version: 1.0
+version: 1.1
