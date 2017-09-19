@@ -9,12 +9,15 @@ If you want SEO boosting with Drupal 8.x site, we recomended to delete this HTML
 <link rel="revision" href="/page-1-name" />
 <link rel="canonical" href="http://example.com/" />
 ```
-Now, we can do it. Fast and simply!
 
 Support:
 
 * Node
 * Taxonomy term
+
+## SEO hint
+
+Use [Metatag](https://www.drupal.org/project/metatag) module for add _only right_ META information to your site. This is trust way to grow up position in Google, Yandex, etc.
 
 ## Install
 
