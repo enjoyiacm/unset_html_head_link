@@ -27,7 +27,7 @@ Use [Metatag](https://www.drupal.org/project/metatag) module for add _only right
 
 ## Developers
 
-Development and maintenance of `Unset HTML head link` project engaged by Vikky Shostak ([Koddr](https://koddr.me)). If you want to write a «thank you» or ask us about something, [use this e-mail](mailto:koddr.me@gmail.com).
+Development and maintenance of `Unset HTML head link` project engaged by Vic Shóstak (aka [Koddr](https://koddr.me)). If you want to write a «thank you» or ask us about something, [use this e-mail](mailto:koddr.me@gmail.com).
 
 ## Your help
 
