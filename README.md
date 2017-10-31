@@ -1,5 +1,7 @@
 # Unset HTML head link (Drupal 8.x)
 
+[![GitHub release](https://img.shields.io/badge/version-1.1-brightgreen.svg?style=flat-square)](https://github.com/webartisans-org/drupal_8_unset_html_head_link) [![licence](https://img.shields.io/badge/CMS_Drupal-8.x-red.svg?style=flat-square)](https://www.drupal.org) [![licence](https://img.shields.io/badge/licence-MIT-blue.svg?style=flat-square)](https://github.com/webartisans-org/drupal_8_unset_html_head_link/blob/master/LICENSE)
+
 > Module for unset any wrong HTML links (like `rel="delete-form"`, `rel="edit-form"`, etc.) from head on Drupal 8.x websites. This is trust way to grow up position in SERP Google, Yandex, etc.
 
 As we know, delete this HTML head links was improve SEO for your CMS Drupal 8.x website:
