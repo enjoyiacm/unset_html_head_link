@@ -15,11 +15,11 @@ Support:
 * Node
 * Taxonomy term
 
-## SEO hint
+### SEO hint
 
 Use [Metatag](https://www.drupal.org/project/metatag) module for add _only right_ META information to your site. This is trust way to grow up position in Google, Yandex, etc.
 
-## Install
+### Install
 
 * Download [ZIP with module](https://github.com/koddr/unset_html_head_link/archive/master.zip), unpack and upload to ``./modules/`` folder in your server.
 * Enable this module at ``/admin/modules`` (look in ``Search engine optimization`` pack).
