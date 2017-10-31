@@ -1,6 +1,8 @@
 # Unset HTML head link (Drupal 8.x)
 
-If you want SEO boosting with Drupal 8.x site, we recomended to delete this HTML head links:
+> Module for unset any wrong HTML links (like `rel="delete-form"`, `rel="edit-form"`, etc.) from head on Drupal 8.x websites. This is trust way to grow up position in SERP Google, Yandex, etc.
+
+As we know, delete this HTML head links was improve SEO for your CMS Drupal 8.x website:
 
 ```html
 <link rel="delete-form" href="/node/1/delete" />
@@ -10,24 +12,24 @@ If you want SEO boosting with Drupal 8.x site, we recomended to delete this HTML
 <link rel="canonical" href="http://example.com/" />
 ```
 
-Support:
+Support for:
 
-* Node
-* Taxonomy term
+* Nodes
+* Taxonomy terms
 
-### SEO hint
-
-Use [Metatag](https://www.drupal.org/project/metatag) module for add _only right_ META information to your site. This is trust way to grow up position in Google, Yandex, etc.
+> ### SEO hint
+>
+> Use [Metatag](https://www.drupal.org/project/metatag) module for add _only right_ META information to your site.
 
 ### Install
 
-* Download [ZIP with module](https://github.com/koddr/unset_html_head_link/archive/master.zip), unpack and upload to ``./modules/`` folder in your server.
+* Download [ZIP with module](https://github.com/webartisans-org/unset_html_head_link/archive/master.zip), unpack and upload to ``./modules/`` folder in your server.
 * Enable this module at ``/admin/modules`` (look in ``Search engine optimization`` pack).
 * _Don't forget to flush cache!_
 
 ### Author & maintainers
 
-Development and maintenance engaged by [Vic Shóstak](https://github.com/koddr) (aka Koddr).
+Development and maintenance engaged by [Vic Shóstak](https://github.com/koddr) (aka Koddr) for [True//web/artisans](https://github.com/webartisans-org).
 If you want to say «thank you» and/or ask me about `Unset HTML head link` — [create new issue](https://github.com/webartisans-org/drupal_8_unset_html_head_link/issues/new).
 
 ___
