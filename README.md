@@ -38,3 +38,7 @@ ___
 >
 > #### Thanks for supporting!
 ___
+
+### License
+
+[The MIT License (MIT)](https://github.com/webartisans-org/drupal_8_unset_html_head_link/blob/master/LICENSE)
