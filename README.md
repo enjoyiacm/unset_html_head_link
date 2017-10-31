@@ -17,13 +17,13 @@ Support for:
 * Nodes
 * Taxonomy terms
 
-### Install
+### Install module
 
 * Download [ZIP with module](https://github.com/webartisans-org/unset_html_head_link/archive/master.zip), unpack and upload to ``./modules/`` folder in your server.
 * Enable this module at ``/admin/modules`` (look in ``Search engine optimization`` pack).
 * _Don't forget to flush cache!_
 
-### SEO hint
+### SEO hints
 
 * Use [Metatag](https://www.drupal.org/project/metatag) module for add _only right_ META information to your site.
 
