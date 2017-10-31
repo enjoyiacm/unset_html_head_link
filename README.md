@@ -25,10 +25,16 @@ Use [Metatag](https://www.drupal.org/project/metatag) module for add _only right
 * Enable this module at ``/admin/modules`` (look in ``Search engine optimization`` pack).
 * _Don't forget to flush cache!_
 
-## Developers
+### Author & maintainers
 
-Development and maintenance of `Unset HTML head link` project engaged by Vic Shóstak (aka [Koddr](https://koddr.me)). If you want to write a «thank you» or ask us about something, [use this e-mail](mailto:koddr.me@gmail.com).
+Development and maintenance engaged by [Vic Shóstak](https://github.com/koddr) (aka Koddr).
+If you want to say «thank you» and/or ask me about `Unset HTML head link` — [create new issue](https://github.com/webartisans-org/drupal_8_unset_html_head_link/issues/new).
 
-## Your help
-
-If you want help, we will be glad reviews about `Unset HTML head link` on personal blogs (including Twitter), online media and/or specialized IT-portals. Thank you!
+___
+> ### Your assistance will help make project even better!
+>
+> * [Donate with PayPal](https://www.paypal.me/koddr/9.99usd)
+> * [Donate with Yandex.Money](https://money.yandex.ru/to/41001601525977/599)
+>
+> #### Thanks for supporting!
+___
