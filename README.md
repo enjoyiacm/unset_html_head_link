@@ -7,11 +7,11 @@
 As we know, delete this HTML head links was improve SEO for your CMS Drupal 8.x website:
 
 ```html
-<link rel="delete-form" href="/node/1/delete" />
-<link rel="edit-form" href="/node/1/edit" />
-<link rel="version-history" href="/node/1/revisions" />
-<link rel="revision" href="/page-1-name" />
-<link rel="canonical" href="http://example.com/" />
+<link rel="delete-form" href="/node/1/delete">
+<link rel="edit-form" href="/node/1/edit">
+<link rel="version-history" href="/node/1/revisions">
+<link rel="revision" href="/page-1-name">
+<link rel="canonical" href="http://example.com/">
 ```
 
 Support for:

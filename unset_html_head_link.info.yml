@@ -1,7 +1,7 @@
 # Module name.
 name: Unset HTML head link
 # Module description.
-description: 'Module for unset any HTML links (like rel="delete-form" or rel="edit-form" and etc.) from head in Drupal 8.x sites.'
+description: 'Module for unset any wrong HTML links (like rel=delete-form, rel=edit-form, etc.) from head on Drupal 8.x websites. This is trust way to grow up position in SERP Google, Yandex, etc.'
 # Module dev info.
 core: 8.x
 type: module

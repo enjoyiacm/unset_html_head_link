@@ -1,14 +1,14 @@
 {
   "name": "koddr/unset_html_head_link",
   "type": "drupal-module",
-  "description": "Remove Header Links for SEO reasons",
-  "keywords": ["Drupal", "SEO"],
+  "description": "Module for unset any wrong HTML links (like rel=delete-form, rel=edit-form, etc.) from head on Drupal 8.x websites. This is trust way to grow up position in SERP Google, Yandex, etc.",
+  "keywords": ["Drupal", "SEO", "META"],
   "license": "MIT",
-  "homepage": "https://github.com/koddr/drupal_8_unset_html_head_link",
+  "homepage": "https://github.com/webartisans-org/drupal_8_unset_html_head_link",
   "minimum-stability": "dev",
   "support": {
-    "issues": "https://github.com/koddr/drupal_8_unset_html_head_link/issues",
-    "source": "https://github.com/koddr/drupal_8_unset_html_head_link"
+    "issues": "https://github.com/webartisans-org/drupal_8_unset_html_head_link/issues",
+    "source": "https://github.com/webartisans-org/drupal_8_unset_html_head_link"
   },
   "require": { }
 }
