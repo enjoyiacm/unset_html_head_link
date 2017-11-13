@@ -21,9 +21,16 @@ Support for:
 
 ### Install module
 
-* Download [ZIP with module](https://github.com/webartisans-org/unset_html_head_link/archive/master.zip), unpack and upload to ``./modules/`` folder in your server.
+With Composer:
+
+``` bash
+$ composer require 'drupal/unset_html_head_link:1.x-dev'
+```
+
+Or download [ZIP with module](https://github.com/webartisans-org/unset_html_head_link/archive/master.zip), unpack and upload to ``./modules/`` folder in your server.
+
 * Enable this module at ``/admin/modules`` (look in ``Search engine optimization`` pack).
-* _Don't forget to flush cache!_
+* **Don't forget to flush cache!**
 
 ### SEO hints
 
