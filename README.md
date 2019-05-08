@@ -38,8 +38,8 @@ Or download [ZIP with module](https://github.com/webartisans-org/unset_html_head
 
 ### Author & maintainers
 
-Development and maintenance engaged by [Vic Shóstak](https://github.com/koddr) (aka Koddr) for [True//web/artisans](https://github.com/webartisans-org).
-If you want to say «thank you» and/or ask me about `Unset HTML head link` — [create new issue](https://github.com/webartisans-org/drupal_8_unset_html_head_link/issues/new).
+Development and maintenance engaged by [Vic Shóstak](https://github.com/koddr) (aka Koddr) for [True web artisans](https://github.com/truewebartisans).
+If you want to say «thank you» and/or ask me about `Unset HTML head link` — [create new issue](https://github.com/truewebartisans/drupal_8_unset_html_head_link/issues/new).
 
 ___
 > ### Your assistance will help make project even better!
@@ -52,4 +52,4 @@ ___
 
 ### License
 
-[The MIT License (MIT)](https://github.com/webartisans-org/drupal_8_unset_html_head_link/blob/master/LICENSE)
+[The MIT License (MIT)](https://github.com/truewebartisans/drupal_8_unset_html_head_link/blob/master/LICENSE)
