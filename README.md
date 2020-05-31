@@ -23,13 +23,13 @@ Support for:
 
 With Composer:
 
-``` bash
-$ composer require 'drupal/unset_html_head_link:1.x-dev'
+```console
+composer require 'drupal/unset_html_head_link:1.x-dev'
 ```
 
-Or download [ZIP with module](https://github.com/webartisans-org/unset_html_head_link/archive/master.zip), unpack and upload to ``./modules/`` folder in your server.
+Or download [ZIP with module](https://github.com/webartisans-org/unset_html_head_link/archive/master.zip), unpack and upload to `./modules/` folder in your server.
 
-* Enable this module at ``/admin/modules`` (look in ``Search engine optimization`` pack).
+* Enable this module at `/admin/modules` (look in `Search engine optimization` pack).
 * **Don't forget to flush cache!**
 
 ### SEO hints
@@ -38,17 +38,14 @@ Or download [ZIP with module](https://github.com/webartisans-org/unset_html_head
 
 ### Author & maintainers
 
-Development and maintenance engaged by [Vic Shóstak](https://github.com/koddr) (aka Koddr) for [True web artisans](https://github.com/truewebartisans).
-If you want to say «thank you» and/or ask me about `Unset HTML head link` — [create new issue](https://github.com/truewebartisans/drupal_8_unset_html_head_link/issues/new).
+Development and maintenance engaged by [Vic Shóstak](https://github.com/koddr) (aka Koddr) for [True web artisans](https://github.com/truewebartisans). If you want to say «thank you» and/or ask me about `Unset HTML head link` — [create new issue](https://github.com/truewebartisans/drupal_8_unset_html_head_link/issues/new).
 
-___
-> ### Your assistance will help make project even better!
->
-> * [Donate with PayPal](https://www.paypal.me/koddr/9.99usd)
-> * [Donate with Yandex.Money](https://money.yandex.ru/to/41001601525977/599)
->
-> #### Thanks for supporting!
-___
+### Your assistance will help make project even better!
+
+* [Donate with PayPal](https://www.paypal.me/koddr/9.99usd)
+* [Donate with Yandex.Money](https://money.yandex.ru/to/41001601525977/599)
+
+Thanks for supporting!
 
 ### License
 
