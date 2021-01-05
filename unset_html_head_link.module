@@ -10,7 +10,7 @@ use Drupal\node\NodeInterface;
  * @param EntityViewDisplayInterface $display
  */
 function unset_html_head_link_entity_view_alter(array &$build, EntityInterface $entity, EntityViewDisplayInterface $display) {
-  // Cheking view_mode for node.
+  // Checking view_mode for node.
   if ($build['#view_mode'] !== 'full' && $entity Instanceof NodeInterface) {
     return;
   }
@@ -26,7 +26,7 @@ function unset_html_head_link_page_attachments_alter(array &$attachments) {
 }
 
 function _remove_header_links(array &$attachments) {
-  // Cheking html_head_link on attached tags in head.
+  // Checking html_head_link on attached tags in head.
   if (!isset($attachments['#attached']['html_head_link'])) {
     return;
   }
